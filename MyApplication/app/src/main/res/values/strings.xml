@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="кіт">Кіт</string>
+    <string name="собака">Собака</string>
+    <string name="ведмідь">Ведмідь</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
